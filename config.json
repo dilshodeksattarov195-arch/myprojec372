@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsetch",
+        "uuid": 2146812,
+        "checksum": "ejifph"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
